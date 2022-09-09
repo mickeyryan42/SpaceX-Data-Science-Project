@@ -1,1 +1,1 @@
-# Data Science project to predict costs for Falcon 9 launches
+# Data Science project to predict whether a SpaceX rocket will land successfully based on prior data.
